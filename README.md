@@ -22,6 +22,15 @@ The connector take that CSV and generate 2 new files :
 - one listing each bar, their consuption, and their initial capacity
 - one listing for each pair of bar/center the duration required for a delivery
 
+## Run the code
+
+To get a running version of the code and see the results run the following commands (requires `docker`)
+
+```bash
+docker build . -t my_solution
+docker run my_solution
+```
+
 ## Questions
 
 For this part you will be paired with a developper of the solution and connector charged with maintaining the project.
