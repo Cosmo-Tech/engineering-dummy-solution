@@ -8,7 +8,7 @@ We have multiple client bars and a set of distribution centers.
 
 Each distribution center has its own capacity and can deliver bars in a given time.
 
-Our clients want to be able to be able to generate dispatch routes for each center to know how many kegs should be delivered at to which bar.
+Our clients want to be able to generate dispatch routes for each center to know how many kegs should be delivered at to which bar.
 
 The location, storage capacities and provisioning schedules of the centers are actually put in a "cold storage" inside the solution as CSVs.
 
