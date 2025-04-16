@@ -27,8 +27,8 @@ The connector take that CSV and generate 2 new files :
 To get a running version of the code and see the results run the following commands (requires `docker`)
 
 ```bash
-docker build . -t my_solution
-docker run my_solution
+docker build . -t hello_cosmo
+docker run hello_cosmo
 ```
 
 ## Questions
